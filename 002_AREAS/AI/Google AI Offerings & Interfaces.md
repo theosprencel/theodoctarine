@@ -8,9 +8,7 @@ Description: >-
   Gemini-created guide to Google AI tools and when to use them, with comparisons
   and contrasts.
 source: Google Gemini
-Status:
-  - Doing
-oct.related: []
+status: doing
 tags:
   - google_gemini
   - ai_studio
@@ -18,7 +16,6 @@ tags:
   - working_with_ai
 created: '2026-07-24'
 updated: '2026-07-24'
-Area: AI & Automation
 ---
 
 

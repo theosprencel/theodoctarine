@@ -20,6 +20,11 @@
     "options": null
   },
   {
+    "name": "Due Date",
+    "type": "date",
+    "options": null
+  },
+  {
     "name": "Last Edited",
     "type": "datetime",
     "options": null
@@ -40,6 +45,16 @@
     "options": null
   },
   {
+    "name": "name",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "description",
+    "type": "string",
+    "options": null
+  },
+  {
     "name": "uuid",
     "type": "string",
     "options": null
@@ -47,14 +62,12 @@
   {
     "name": "id",
     "type": "string",
-    "options": null,
-    "description": "Stable, unique identifier that survives renaming or relocation. Use an auto-generation tool to create in format {UUID}."
+    "options": null
   },
   {
     "name": "function",
     "type": "string",
-    "options": null,
-    "description": "Primary function of the artifact. Allowed values depend on its Note Type/profile."
+    "options": null
   },
   {
     "name": "status",
@@ -64,29 +77,31 @@
   {
     "name": "topics",
     "type": "list",
-    "options": null,
-    "description": "Subjects the artifact is principally about. Use one or more concise, reusable terms; prefer lowercase kebab-case, such as metadata, color-theory, or content-modeling."
+    "options": null
   },
   {
-    "name": "references",
-    "type": "list",
-    "options": null,
-    "description": "Resources someone can consult for additional information, evidence, or context."
-  },
-  {
-    "name": "attribution",
-    "type": "list",
-    "options": null,
-    "description": "Who or what should receive credit."
-  },
-  {
-    "name": "aliases",
+    "name": "updated",
     "type": "string",
     "options": null
   },
   {
-    "name": "description",
+    "name": "references",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "attribution",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "created",
     "type": "string",
+    "options": null
+  },
+  {
+    "name": "aliases",
+    "type": "list",
     "options": null
   },
   {
@@ -121,7 +136,7 @@
   },
   {
     "name": "Created Date",
-    "type": "datetime",
+    "type": "date",
     "options": null
   },
   {
@@ -161,27 +176,6 @@
   },
   {
     "name": "due",
-    "type": "date",
-    "options": null
-  },
-  {
-    "name": "name",
-    "type": "string",
-    "options": null
-  },
-  {
-    "name": "updated",
-    "type": "datetime",
-    "options": null,
-    "description": "App-generated date and time of the most recent modification. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
-  },
-  {
-    "name": "created",
-    "type": "string",
-    "options": null
-  },
-  {
-    "name": "Due Date",
     "type": "date",
     "options": null
   }
