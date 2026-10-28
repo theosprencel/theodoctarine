@@ -1,13 +1,11 @@
 ---
 oct.type: t9k19r1mxuxg2uxoa1kdbcd5
 id: e20e9095-6ace-4e49-ba65-225eafb0e5a6
-title: YAML data types
 created: '2026-06-16'
 Last Edited: '2026-06-16'
 subject_matter: YAML data types
 system:
   - resources
-Status: []
 source: Google AI Mode Search
 Author: Various
 AI Assistance: true
@@ -23,12 +21,9 @@ oct.related:
   - >-
     [[003_RESOURCES/Guides/Content as Data/YAML Data – Custom and User-Defined
     Types]]
-status:
-  - Done
+status: done
 aliases: '[YAML Data Cheat Sheet]'
 ---
-
-
 
 
 

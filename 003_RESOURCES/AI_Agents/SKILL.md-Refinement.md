@@ -1,6 +1,5 @@
 ---
 oct.type: qc9wuc7otn2tn395awlfne1n
-Title: SKILL-Refinement
 Aliases: Refining Claude Agent Doc
 Description: >-
   Refining the standardized MD document guidelines Claude follows for agentic
@@ -10,7 +9,6 @@ Author:
 AI Assistance: true
 Created Date: '2026-05-29'
 Last Edited: 2026-05-30T10:50
-Status: []
 Published: false
 Word Count: 1786
 Tags:
@@ -18,12 +16,9 @@ Tags:
   - philosophy
   - collaboration
   - projects
-status:
-  - Doing
+status: doing
 id: 5fd66838-b403-4464-8315-90af22cf3b4b
 ---
-
-
 Working with Claude refine `SKILL.md` so we're in lock-step on upcoming projects as well as future work.
 
 ---

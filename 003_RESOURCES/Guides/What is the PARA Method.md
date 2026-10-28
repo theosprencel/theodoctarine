@@ -11,7 +11,6 @@ topics:
   - areas
   - resources
   - archives
-created: ''
 updated: 2026-09-08T19:08
 references:
   - https://fortelabs.com/blog/para/

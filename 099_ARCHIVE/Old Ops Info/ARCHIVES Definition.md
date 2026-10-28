@@ -8,6 +8,7 @@ topics:
   - digital-organization
   - knowledge-management
   - archives
+created: ''
 updated: 2026-09-08T19:05
 references:
   - https://fortelabs.com/blog/para/

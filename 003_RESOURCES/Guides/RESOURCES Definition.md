@@ -8,7 +8,6 @@ topics:
   - digital-organization
   - knowledge-management
   - resources
-created: ''
 updated: 2026-09-08T19:02
 references:
   - https://fortelabs.com/blog/para/
@@ -21,7 +20,6 @@ oct.related:
   - '[[099_ARCHIVE/Old Ops Info/ARCHIVES Definition]]'
   - '[[003_RESOURCES/Guides/What is the PARA Method]]'
 ---
-
 
 
 
