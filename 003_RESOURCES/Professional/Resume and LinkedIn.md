@@ -7,7 +7,7 @@ topics:
   - resume
   - job-search
   - professional-profile
-Created: '2026-09-06'
+created: '2026-09-06'
 updated: 2026-09-06T03:09
 references:
   - linkedin.com/in/tcsprencel

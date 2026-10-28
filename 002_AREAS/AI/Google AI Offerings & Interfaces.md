@@ -8,19 +8,15 @@ Description: >-
   Gemini-created guide to Google AI tools and when to use them, with comparisons
   and contrasts.
 source: Google Gemini
-Status:
-  - Doing
-oct.related: []
+status: doing
 tags:
-  - google_gemini
-  - ai_studio
-  - ai_models
-  - working_with_ai
+  - google-gemini
+  - ai-studio
+  - ai-models
+  - working-with-ai
 created: '2026-07-24'
 updated: '2026-07-24'
-Area: AI & Automation
 ---
-
 
 > [!INFO]
 > This started as a simple question about AI Studio Build and I figured I'd turn it into a reference sheet for Google's various AI entry points and offerings.

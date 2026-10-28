@@ -6,7 +6,7 @@ status: in-progress
 topics:
   - personal-value-props
   - elevator-pitch
-Created: '2026-09-06'
+created: '2026-09-06'
 updated: 2026-09-06T03:15
 project: Job Search 2026
 due: '2026-09-11'

@@ -9,18 +9,14 @@ description: >-
   > Explanation from a Google AI Mode search why `snake_case` is preferable to
   `kebab-case` in many file-naming scenarios.
 tags:
-  - snake_case
-  - file_naming_conventions
+  - snake-case
+  - file-naming-conventions
   - kebab-case
 AI Assistance: false
 Author: ''
-Status: []
-oct.related: ''
 created: '2026-06-16'
-updated: '2026-06-16'
-Last Edited: '2026-06-19'
-status:
-  - Done
+updated: '2026-06-19'
+status: done
 ---
 
 

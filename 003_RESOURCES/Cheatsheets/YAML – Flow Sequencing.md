@@ -17,7 +17,7 @@ references:
     https://docs.google.com/document/d/1Vco-fiCtWegAN7xqXjm2vm1PviEie2lBB-vWiwGKfuE/edit?usp=sharing
 attribution:
   - Google Gemini
-Created: '2026-09-04'
+created: '2026-09-04'
 id: b4e82f3a-91c7-4d29-a5f6-8e3d2c1b9a47
 ---
 

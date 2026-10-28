@@ -7,11 +7,11 @@ Description: >-
 Author:
   - Theodore Sprencel
 AI Assistance: true
-Created Date: '2026-05-29'
-Last Edited: 2026-05-30T10:50
+created: '2026-05-29'
+updated: 2026-05-30T10:50
 Published: false
 Word Count: 1786
-Tags:
+tags:
   - design
   - philosophy
   - collaboration

@@ -7,7 +7,6 @@ aliases: YAML Data Lesson – Part 2
 subject_matter: YAML data, anchors, aliases, and custom types
 system:
   - resources
-Status: []
 source: Google AI Mode Search
 Author: Various
 AI Assistance: true
@@ -15,13 +14,11 @@ description: >-
   In Part 2 of the impromptu lesson, covers anchors, aliases, YAML flexibility,
   and more.
 tags:
-  - yaml_data
-  - custom_yaml_types
+  - yaml-data
+  - custom-yaml-types
 created: '2026-06-16'
 updated: '2026-06-19'
-Last Edited: '2026-06-19'
-status:
-  - Done
+status: done
 ---
 
 

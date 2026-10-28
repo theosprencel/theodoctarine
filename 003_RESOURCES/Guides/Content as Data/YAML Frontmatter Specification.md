@@ -6,7 +6,7 @@ status: superseded
 topics:
   - yaml-frontmatter
   - knowledge-management
-Created: '2026-07-01'
+created: '2026-07-01'
 updated: 2026-09-06T03:25
 references:
   - '[[003_RESOURCES/Guides/Content as Data/Profile-Based Metadata Schemas]]'

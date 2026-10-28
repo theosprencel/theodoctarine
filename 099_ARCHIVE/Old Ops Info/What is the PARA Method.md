@@ -1,8 +1,7 @@
 ---
-Title: What is the PARA Method?
 Author: Theodore Sprencel
-Created Date: '2026-04-01'
-Tags:
+created: '2026-04-01'
+tags:
   - para-method
   - one-pager
   - productivity
@@ -10,10 +9,9 @@ Tags:
 Description: >-
   Quick explainer on this popular organizational method with links to learn
   more.
-Last Edited: 2026-04-01T10:34
+updated: 2026-04-01T10:34
 AI Assistance: true
-Status:
-  - Archived
+status: archived
 id: 226e026e-31fc-42aa-b19a-26b92337b16c
 ---
 

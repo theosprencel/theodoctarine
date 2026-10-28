@@ -6,7 +6,7 @@ status: needs-review
 topics:
   - octarine-data
   - metadata
-Created: '2026-07-01'
+created: '2026-07-01'
 updated: 2026-09-06T03:33
 references:
   - https://docs.octarine.app/getting-started/meet-octarine

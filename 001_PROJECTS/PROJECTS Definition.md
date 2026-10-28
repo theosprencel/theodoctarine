@@ -5,7 +5,6 @@ oct.related:
   - '[[099_ARCHIVE/Old Ops Info/ARCHIVES Definition]]'
   - '[[003_RESOURCES/Guides/What is the PARA Method]]'
   - '[[003_RESOURCES/Guides/RESOURCES Definition]]'
-pinned: false
 id: a7d41e93-6c25-4b17-8e3f-9a0c7d21b654
 function: definition
 status: needs-review
@@ -21,9 +20,9 @@ references:
 attribution:
   - Tiago Forte
   - Forte Labs
-created: ''
 oct.note_heading_font: '"Montserrat", sans-serif'
 ---
+
 
 
 

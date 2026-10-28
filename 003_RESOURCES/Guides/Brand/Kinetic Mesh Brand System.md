@@ -16,21 +16,10 @@ oct.related:
   - '[[003_RESOURCES/AI_Agents/SKILL-Refinement.md]]'
   - '[[002_AREAS/AI/Google AI Offerings & Interfaces]]'
 tags:
-  - brand_guidelines
-  - working_with_ai
-  - agent_instructions
+  - brand-guidelines
+  - working-with-ai
+  - agent-instructions
 ---
-
-
-
-
-
-
-
-
-
-
-
 
 
 

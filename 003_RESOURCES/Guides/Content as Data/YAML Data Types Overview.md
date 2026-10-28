@@ -2,7 +2,7 @@
 oct.type: t9k19r1mxuxg2uxoa1kdbcd5
 id: e20e9095-6ace-4e49-ba65-225eafb0e5a6
 created: '2026-06-16'
-Last Edited: '2026-06-16'
+updated: '2026-06-16'
 subject_matter: YAML data types
 system:
   - resources
@@ -13,10 +13,10 @@ description: >-
   A very high-level summary of YAML data types, covering scalars, sequences, and
   mappings.
 tags:
-  - yaml_data_types
-  - scalar_data
-  - data_array
-  - data_mapping
+  - yaml-data-types
+  - scalar-data
+  - data-array
+  - data-mapping
 oct.related:
   - >-
     [[003_RESOURCES/Guides/Content as Data/YAML Data – Custom and User-Defined
