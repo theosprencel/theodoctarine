@@ -1,6 +1,5 @@
 ---
 oct.type: w0qat0kve8czsly6xhf2pqbh
-pinned: false
 id: 0239aefe-1613-4c8a-82fd-a64f81002d31
 function: definition
 status: in-progress
@@ -16,7 +15,6 @@ references:
 attribution:
   - Tiago Forte
   - Forte Labs
-created: null
 oct.related:
   - '[[001_PROJECTS/PROJECTS Definition]]'
   - '[[003_RESOURCES/Guides/RESOURCES Definition]]'
