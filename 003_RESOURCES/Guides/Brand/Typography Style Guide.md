@@ -1,5 +1,5 @@
 ---
-oct.type: u9y3l13vtg4l3u3morhaah52
+oct.type: w0qat0kve8czsly6xhf2pqbh
 id: eeccb2c3-a8fa-4e06-86e6-0894e7ff5765
 aliases:
   - Text Styles Guide

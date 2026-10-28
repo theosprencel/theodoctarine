@@ -1,5 +1,5 @@
 ---
-oct.type: u9y3l13vtg4l3u3morhaah52
+oct.type: w0qat0kve8czsly6xhf2pqbh
 id: 91e7c4a6-8d3b-4f52-a97e-6b28d1f043c5
 aliases:
   - Guide to Google AI Tools

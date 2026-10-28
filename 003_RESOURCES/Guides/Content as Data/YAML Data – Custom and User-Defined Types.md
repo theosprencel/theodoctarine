@@ -1,5 +1,5 @@
 ---
-oct.type: t9k19r1mxuxg2uxoa1kdbcd5
+oct.type: w0qat0kve8czsly6xhf2pqbh
 oct.related:
   - '[[003_RESOURCES/Guides/Content as Data/YAML Data Types Overview]]'
 id: 6377cc68-a924-4af5-a46d-a2451730be79

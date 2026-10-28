@@ -1,5 +1,5 @@
 ---
-oct.type: u9y3l13vtg4l3u3morhaah52
+oct.type: w0qat0kve8czsly6xhf2pqbh
 id: c19938e9-8b5c-4d70-9d66-c2e68563a3af
 aliases:
   - Design System Overview

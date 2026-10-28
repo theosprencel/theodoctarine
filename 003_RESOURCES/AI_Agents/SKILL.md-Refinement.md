@@ -1,5 +1,5 @@
 ---
-oct.type: qc9wuc7otn2tn395awlfne1n
+oct.type: ckyjo2xn0vdpk6n2fzbz3u54
 Aliases: Refining Claude Agent Doc
 Description: >-
   Refining the standardized MD document guidelines Claude follows for agentic
