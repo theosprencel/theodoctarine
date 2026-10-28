@@ -5,28 +5,8 @@
     "options": null
   },
   {
-    "name": "Status",
-    "type": "list",
-    "options": [
-      "Draft",
-      "In Progress",
-      "Under Review",
-      "Published"
-    ]
-  },
-  {
     "name": "Word Count",
     "type": "number",
-    "options": null
-  },
-  {
-    "name": "Due Date",
-    "type": "date",
-    "options": null
-  },
-  {
-    "name": "Last Edited",
-    "type": "datetime",
     "options": null
   },
   {
@@ -62,12 +42,14 @@
   {
     "name": "id",
     "type": "string",
-    "options": null
+    "options": null,
+    "description": "Stable, unique identifier that survives renaming or relocation. Use an auto-generation tool to create in format {UUID}."
   },
   {
     "name": "function",
     "type": "string",
-    "options": null
+    "options": null,
+    "description": "Primary function of the artifact. Allowed values depend on its Note Type/profile."
   },
   {
     "name": "status",
@@ -77,27 +59,32 @@
   {
     "name": "topics",
     "type": "list",
-    "options": null
+    "options": null,
+    "description": "Subjects the artifact is principally about. Use one or more concise, reusable terms; prefer lowercase kebab-case, such as metadata, color-theory, or content-modeling."
   },
   {
     "name": "updated",
-    "type": "string",
-    "options": null
+    "type": "datetime",
+    "options": null,
+    "description": "App-generated date and time of the most recent modification. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
   },
   {
     "name": "references",
     "type": "list",
-    "options": null
+    "options": null,
+    "description": "Resources someone can consult for additional information, evidence, or context."
   },
   {
     "name": "attribution",
     "type": "list",
-    "options": null
+    "options": null,
+    "description": "Who or what should receive credit."
   },
   {
     "name": "created",
-    "type": "string",
-    "options": null
+    "type": "datetime",
+    "options": null,
+    "description": "App-generated creation date and time. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
   },
   {
     "name": "aliases",
@@ -115,16 +102,6 @@
     "options": null
   },
   {
-    "name": "Area",
-    "type": "string",
-    "options": null
-  },
-  {
-    "name": "Title",
-    "type": "string",
-    "options": null
-  },
-  {
     "name": "Aliases",
     "type": "string",
     "options": null
@@ -135,32 +112,12 @@
     "options": null
   },
   {
-    "name": "Created Date",
-    "type": "date",
-    "options": null
-  },
-  {
-    "name": "Tags",
-    "type": "list",
-    "options": null
-  },
-  {
-    "name": "Created",
-    "type": "date",
-    "options": null
-  },
-  {
     "name": "system",
     "type": "string",
     "options": null
   },
   {
     "name": "contentStatus",
-    "type": "string",
-    "options": null
-  },
-  {
-    "name": "title",
     "type": "string",
     "options": null
   },
