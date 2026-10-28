@@ -1,0 +1,272 @@
+[
+  {
+    "id": "oj87xy0okztwnk3he86p4lrn",
+    "name": "Task",
+    "description": "",
+    "icon": "lucide:Box",
+    "color": "red",
+    "order": 0,
+    "properties": [
+      {
+        "name": "id",
+        "type": "string",
+        "description": "Stable, unique identifier that survives renaming or relocation. Use an auto-generation tool to create in format {UUID}."
+      },
+      {
+        "name": "Title",
+        "type": "string",
+        "description": "The reader-friendly name of the file such as \"Create Website Documentation\"."
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": "Brief summary of the task that includes reason the work is needed and key objectives."
+      },
+      {
+        "name": "project",
+        "type": "string",
+        "description": "Project to which the work artifact contributes. Format: a single internal reference to the corresponding project artifact."
+      },
+      {
+        "name": "due",
+        "type": "date",
+        "description": "Target date by which the work should be completed. Format: {YYYY-MM-DD}"
+      },
+      {
+        "name": "status",
+        "type": "string",
+        "description": "Current state of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "tags",
+        "type": "tags",
+        "description": "Tags group notes on shared dimensions that cut across other means of categorization."
+      }
+    ],
+    "created": 1779841508798,
+    "modified": 1792439143601
+  },
+  {
+    "id": "a3eer3826p3rap875rrntm64",
+    "name": "Metacontent",
+    "description": "",
+    "icon": "lucide:Layers",
+    "color": "orange",
+    "order": 2,
+    "properties": [
+      {
+        "name": "title",
+        "type": "string",
+        "description": "The reader-friendly name of the file such as \"My Task List\"."
+      },
+      {
+        "name": "aliases",
+        "type": "list",
+        "description": "Ohter common ways people could be expected to refer to your content, e.g., \"To Do List\" and \"Task List\" can always be listed as aliases of each other."
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": "Brief summary of the task that includes reason the work is needed and key objectives."
+      },
+      {
+        "name": "created",
+        "type": "datetime",
+        "description": "App-generated creation date and time. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "updated",
+        "type": "datetime",
+        "description": "App-generated date and time of the most recent modification. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "ai_assistance",
+        "type": "checkbox",
+        "description": "Unchecked by default. Check to indicate Generative AI was directly involved in producing the content."
+      },
+      {
+        "name": "status",
+        "type": "string",
+        "description": "Current state of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "oct.related",
+        "type": "list",
+        "description": "Other notes that have some kind of tie to this one."
+      },
+      {
+        "name": "tags",
+        "type": "tags",
+        "description": "Tags are used to classify across other categories and sections."
+      }
+    ],
+    "created": 1779925904770,
+    "modified": 1792439336774
+  },
+  {
+    "id": "bb1wniq7295zdc49dd8k6hst",
+    "name": "Discovery",
+    "description": "",
+    "icon": "lucide:SquareLibrary",
+    "color": "orange",
+    "order": 6,
+    "properties": [
+      {
+        "name": "id",
+        "type": "string",
+        "description": "Stable, unique identifier that survives renaming or relocation. Use an auto-generation tool to create in format {UUID}."
+      },
+      {
+        "name": "function",
+        "type": "string",
+        "description": "Primary function of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "status",
+        "type": "string",
+        "description": "Current state of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "topics",
+        "type": "list",
+        "description": "Subjects the artifact is principally about. Use one or more concise, reusable terms; prefer lowercase kebab-case, such as metadata, color-theory, or content-modeling."
+      },
+      {
+        "name": "created",
+        "type": "datetime",
+        "description": "App-generated creation date and time. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "updated",
+        "type": "datetime",
+        "description": "App-generated date and time of the most recent modification. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "references",
+        "type": "list",
+        "description": "Resources someone can consult for additional information, evidence, or context."
+      },
+      {
+        "name": "attribution",
+        "type": "list",
+        "description": "Who or what should receive credit."
+      }
+    ],
+    "created": 1787136843181,
+    "modified": 1789722769537
+  },
+  {
+    "id": "ckyjo2xn0vdpk6n2fzbz3u54",
+    "name": "Work",
+    "description": "",
+    "icon": "lucide:TrendingUp",
+    "color": "green",
+    "order": 7,
+    "properties": [
+      {
+        "name": "id",
+        "type": "string",
+        "description": "Stable, unique identifier that survives renaming or relocation. Use an auto-generation tool to create in format {UUID}."
+      },
+      {
+        "name": "function",
+        "type": "string",
+        "description": "Primary function of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "status",
+        "type": "string",
+        "description": "Current state of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "topics",
+        "type": "list",
+        "description": "Subjects the artifact is principally about. Use one or more concise, reusable terms; prefer lowercase kebab-case, such as metadata, color-theory, or content-modeling."
+      },
+      {
+        "name": "created",
+        "type": "datetime",
+        "description": "App-generated creation date and time. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "updated",
+        "type": "datetime",
+        "description": "App-generated date and time of the most recent modification. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "references",
+        "type": "list",
+        "description": "Resources someone can consult for additional information, evidence, or context."
+      },
+      {
+        "name": "attribution",
+        "type": "list",
+        "description": "Who or what should receive credit."
+      },
+      {
+        "name": "project",
+        "type": "string",
+        "description": "Project to which the work artifact contributes. Format: a single internal reference to the corresponding project artifact."
+      },
+      {
+        "name": "due",
+        "type": "date",
+        "description": "Target date by which the work should be completed. Format: {YYYY-MM-DD}"
+      }
+    ],
+    "created": 1787137964719,
+    "modified": 1789722769537
+  },
+  {
+    "id": "w0qat0kve8czsly6xhf2pqbh",
+    "name": "Knowledge",
+    "description": "",
+    "icon": "lucide:Brain",
+    "color": "yellow",
+    "order": 8,
+    "properties": [
+      {
+        "name": "id",
+        "type": "string",
+        "description": "Stable, unique identifier that survives renaming or relocation. Use an auto-generation tool to create in format {UUID}."
+      },
+      {
+        "name": "function",
+        "type": "string",
+        "description": "Primary function of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "status",
+        "type": "string",
+        "description": "Current state of the artifact. Allowed values depend on its Note Type/profile."
+      },
+      {
+        "name": "topics",
+        "type": "list",
+        "description": "Subjects the artifact is principally about. Use one or more concise, reusable terms; prefer lowercase kebab-case, such as metadata, color-theory, or content-modeling."
+      },
+      {
+        "name": "created",
+        "type": "datetime",
+        "description": "App-generated creation date and time. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "updated",
+        "type": "datetime",
+        "description": "App-generated date and time of the most recent modification. Format: ISO 8601 timestamp: {YYYY-MM-DD} or {YYYY-MM-DD}T{HH:MM}"
+      },
+      {
+        "name": "references",
+        "type": "list",
+        "description": "Resources someone can consult for additional information, evidence, or context."
+      },
+      {
+        "name": "attribution",
+        "type": "list",
+        "description": "Who or what should receive credit."
+      }
+    ],
+    "created": 1787138785518,
+    "modified": 1789722769537
+  }
+]

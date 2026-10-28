@@ -1,0 +1,59 @@
+{
+  "commands": [
+    {
+      "id": "fix-grammar",
+      "name": "Fix Grammar",
+      "prompt": "Correct the grammar in the following text. Use US-English standards."
+    },
+    {
+      "id": "make-concise",
+      "name": "Make this concise",
+      "prompt": "Shorten the following text while retaining its meaning. Start by editing objectively unnecessary elements like redundancies and wordy phrases that have tighter equivalents. Then make subjective edits as you deem approrpriate."
+    },
+    {
+      "id": "reduce-length",
+      "name": "Reduce Character Count",
+      "prompt": "Reduce the length of the following text without losing important information. Use character count as your metric and count spaces as characters."
+    },
+    {
+      "id": "improve-clarity",
+      "name": "Improve Clarity",
+      "prompt": "Rewrite the following text to improve its clarity. Use expressive verbs and avoid most adverbs, especially words like \"very\" and \"really.\""
+    },
+    {
+      "id": "enhance-vocabulary",
+      "name": "Enhance Vocabulary",
+      "prompt": "This command is invoked for specialty and technical texts. Enhance the vocabulary up to the standards of a scholar or expert in the field."
+    },
+    {
+      "id": "simplify-language",
+      "name": "Simplify Language",
+      "prompt": "Simplify the language used in the following text without losing context or altering meaning. Before starting, state the audience you’re writing for, as simplicity will vary greatly by that facet."
+    },
+    {
+      "id": "add-formal-tone",
+      "name": "Formalize Tone",
+      "prompt": "Rewrite the following text in a formal tone. Avoid overly jargony language but use vocabulary that’s appropriate for the audience."
+    },
+    {
+      "id": "add-informal-tone",
+      "name": "Casualize Tone",
+      "prompt": "Rewrite the following text in a casual tone."
+    },
+    {
+      "id": "49800002-f8f2-42cc-add0-dfefddb70249",
+      "name": "Cite Credible Sources From Web Search",
+      "prompt": "Enhance what I've written so far. Search the web for credible, authoritative sources on this topic and use your findings to inform your enhancement suggestions. Cite your sources in the format that's most appropriate, falling back on APA Style any time you're unsure which style to follow."
+    },
+    {
+      "id": "549f800e-56b3-4188-9c9d-f1ee5a3b139a",
+      "name": "Reduce Word Count",
+      "prompt": "Reduce the word count of the following text whithout sacrificing its meaning. Aim for a reduction of 5-10% and reduce it more if possible."
+    },
+    {
+      "id": "d24fd609-ea2b-4b42-9b93-cda873daa9b9",
+      "name": "Run Writing Quality Assessment and refine if needed",
+      "prompt": "Assess the selection for the following characteristics and make improvements where you see fit:\n\n1. The \"no more, no less\" test: Text is the right length to adequately express its thesis or tell its story. I.e., no redundancy and it’s not too wordy, but doesn’t omit important information for the sake of brevity.\n\n2. The \"vibe check\": Text uses appropriate vocabulary and strikes the right tone for the known or presumed audience.\n\n3. The \"brand check\": Text is brand-appropriate for the Kinetic Mesh voice.\n\n4. The \"AI haters\" check: Text does not contain the known markers of AI provenance.\n\n5. The \"AIn’t ashamed\" check: Text clearly states it was written or edited by AI, whichever is correct for the situation. This is an ethical non-negotiable."
+    }
+  ]
+}
