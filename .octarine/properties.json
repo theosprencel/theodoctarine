@@ -135,5 +135,25 @@
     "name": "due",
     "type": "date",
     "options": null
+  },
+  {
+    "name": "Status",
+    "type": "list",
+    "options": [
+      "Draft",
+      "In Progress",
+      "Under Review",
+      "Published"
+    ]
+  },
+  {
+    "name": "Due Date",
+    "type": "date",
+    "options": null
+  },
+  {
+    "name": "Last Edited",
+    "type": "datetime",
+    "options": null
   }
 ]
