@@ -20,8 +20,10 @@ references:
 attribution:
   - Tiago Forte
   - Forte Labs
-oct.note_heading_font: '"Montserrat", sans-serif'
 ---
+
+
+
 
 > [!INFO]
 > **The ~🔴PARA~ Method**
