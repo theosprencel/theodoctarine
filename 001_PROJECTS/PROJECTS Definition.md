@@ -22,9 +22,6 @@ attribution:
   - Forte Labs
 ---
 
-
-
-
 > [!INFO]
 > **The ~🔴PARA~ Method**
 > ****~🔴P ~=~🔴 PROJECTS~**~🔴 ~in the ***~🔴PARA~*** *Method: A Simple System for Organizing Your Digital Life*. **Learn more at [==🔴Forte Labs==](https://fortelabs.com/blog/para/)**.
