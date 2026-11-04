@@ -24,7 +24,7 @@ attribution:
 
 > [!INFO]
 > **The ~🔴PARA~ Method**
-> ****~🔴P ~=~🔴 PROJECTS~**~🔴 ~in the ***~🔴PARA~*** *Method: A Simple System for Organizing Your Digital Life*. **Learn more at [==🔴Forte Labs==](https://fortelabs.com/blog/para/)**.
+> **~🔴P ~=~🔴 PROJECTS~**~🔴 ~in the ***~🔴PARA~*** *Method: A Simple System for Organizing Your Digital Life*. **Learn more at [==🔴Forte Labs==](https://fortelabs.com/blog/para/)**.
 >
 > Projects are "short-term efforts that you’re working on now." If there is a definite end point, even if you’re not sure of the exact date yet, it is a Project.
 
