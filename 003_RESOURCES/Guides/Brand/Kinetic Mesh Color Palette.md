@@ -23,7 +23,7 @@ id: 6aee065b-b70c-4aeb-bb9d-73890de1ceda
 
 # Kinetic Mesh Color Palette
 
-Our main palette, called MainMesh, consists of 7 original colors, 1 dark-mode inverted counterpart for each of the 7, and White. Details in the table below.
+Our main palette, called **MainMesh**, consists of 7 original colors, 1 dark-mode inverted counterpart for each of the 7, and White. Details in the table below.
 
 ---
 
@@ -63,17 +63,67 @@ Our main palette, called MainMesh, consists of 7 original colors, 1 dark-mode in
  |
 | Accent Gold | #FFCC00 | rgb(255, 204, 0) | hsl(48, 100%, 50%) | `color.palette.accent-gold` | - accent-gold-on-surface-inverse-light
 
- | - accent-gold-dark<br>- accent-gold-on-surface-inverse-dark |
-| Accent Gold Deep | #7A6000 | rgb(122, 96, 0) | hsl(47, 100%, 24%) | `color.palette.accent-gold-deep` | - accent-gold-light<br>- accent-gold-on-surface-light | - accent-gold-on-surface-dark |
-| Oxblood Red | #69140E | rgb(105, 20, 14) | hsl(4, 76%, 23%) | `color.palette.oxblood-red` | - danger-light<br>- danger-on-surface-light | - danger-on-surface |
-| Oxblood Red Bright | #D9382E | rgb(217, 56, 46) | hsl(4, 69%, 52%) | `color.palette.oxblood-red-bright` | - danger-on-surface-inverse-light | - danger-dark<br>- danger-on-surface-inverse-dark |
-| Forest Green | #355834 | rgb(53, 88, 52) | hsl(118, 26%, 27%) | `color.palette.forest-green` | - success-green-light<br>- success-green-on-surface-light | - success-green-on-surface-dark |
-| Forest Green Bright | #5AAB59 | rgb(90, 171, 89) | hsl(119, 33%, 51%) | `color.palette.forest-green-bright` | - success-green-on-surface-inverse-light | - success-green-dark<br>- success-green-on-surface-inverse-dark |
-| Muted Gold | #AFA45F | rgb(175, 164, 95) | hsl(52, 33%, 53%) | `color.palette.muted-gold` |  | - text-muted-dark |
-| Muted Gold Deep | #6B6235 | rgb(107, 98, 53) | hsl(50, 34%, 31%) | `color.palette.muted-gold-deep` | - text-muted-light |  |
-| Warm Cream | #F1ECCE | rgb(241, 236, 206) | hsl(51, 56%, 88%) | `color.palette.warm-cream` | - surface-light | - surface-dark |
-| Warm Cream Light | #FAF7E8 | rgb(250, 247, 232) | hsl(50, 64%, 95%) | `color.palette.warm-cream-light` | - background-light |  |
-| White | #FFFFFF | rgb(255, 255, 255) | hsl(0, 0%, 100%) | `color.palette.white` | - text-on-surface-inverse-light<br>- text-on-primary-light<br>- text-on-primary-on-surface-light<br>- text-on-accent-gold-light<br>- text-on-success-green-light<br>- text-on-danger-light | - text-main-dark<br>- text-on-surface-inverse-dark<br>- text-on-primary-on-surface-dark<br>- text-on-danger-dark |
+ | - accent-gold-dark
+- accent-gold-on-surface-inverse-dark
+
+ |
+| Accent Gold Deep | #7A6000 | rgb(122, 96, 0) | hsl(47, 100%, 24%) | `color.palette.accent-gold-deep` | - accent-gold-light
+- accent-gold-on-surface-light
+
+ | - accent-gold-on-surface-dark
+
+ |
+| Oxblood Red | #69140E | rgb(105, 20, 14) | hsl(4, 76%, 23%) | `color.palette.oxblood-red` | - danger-light
+- danger-on-surface-light
+
+ | - danger-on-surface
+
+ |
+| Oxblood Red Bright | #D9382E | rgb(217, 56, 46) | hsl(4, 69%, 52%) | `color.palette.oxblood-red-bright` | - danger-on-surface-inverse-light
+
+ | - danger-dark
+- danger-on-surface-inverse-dark
+
+ |
+| Forest Green | #355834 | rgb(53, 88, 52) | hsl(118, 26%, 27%) | `color.palette.forest-green` | - success-green-light
+- success-green-on-surface-light
+
+ | - success-green-on-surface-dark
+
+ |
+| Forest Green Bright | #5AAB59 | rgb(90, 171, 89) | hsl(119, 33%, 51%) | `color.palette.forest-green-bright` | - success-green-on-surface-inverse-light
+
+ | - success-green-dark
+- success-green-on-surface-inverse-dark
+
+ |
+| Muted Gold | #AFA45F | rgb(175, 164, 95) | hsl(52, 33%, 53%) | `color.palette.muted-gold` |  | - text-muted-dark
+
+ |
+| Muted Gold Deep | #6B6235 | rgb(107, 98, 53) | hsl(50, 34%, 31%) | `color.palette.muted-gold-deep` | - text-muted-light
+
+ |  |
+| Warm Cream | #F1ECCE | rgb(241, 236, 206) | hsl(51, 56%, 88%) | `color.palette.warm-cream` | - surface-light
+
+ | - surface-dark
+
+ |
+| Warm Cream Light | #FAF7E8 | rgb(250, 247, 232) | hsl(50, 64%, 95%) | `color.palette.warm-cream-light` | - background-light
+
+ |  |
+| White | #FFFFFF | rgb(255, 255, 255) | hsl(0, 0%, 100%) | `color.palette.white` | - text-on-surface-inverse-light
+- text-on-primary-light
+- text-on-primary-on-surface-light
+- text-on-accent-gold-light
+- text-on-success-green-light
+- text-on-danger-light
+
+ | - text-main-dark
+- text-on-surface-inverse-dark
+- text-on-primary-on-surface-dark
+- text-on-danger-dark
+
+ |
 
 ---
 
