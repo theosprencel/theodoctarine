@@ -21,8 +21,6 @@ uuid: ''
 id: 6aee065b-b70c-4aeb-bb9d-73890de1ceda
 ---
 
-
-
 # Kinetic Mesh Color Palette
 
 Our main palette, called MainMesh, consists of 7 original colors, 1 dark-mode inverted counterpart for each of the 7, and White. Details in the table below.
@@ -33,24 +31,24 @@ Our main palette, called MainMesh, consists of 7 original colors, 1 dark-mode in
 
 ***~🔵AccessibleMesh~** = Good accessibility ratings in various light and dark modes.
 
-<!--octarine-table-cols:190,128,136,164,0,0,116,113-->
+<!--octarine-table-cols:178,128,179,179,0,0,116,113-->
 | Color Name | Hex | RGB | HSL | Token | Uses | Light Mode | Dark Mode |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Deep Navy | #0B092A | 11, 9, 42 | 244, 65%, 10% | `color.palette.deep-navy` | - Primary text<br>- Headings<br>- Backgrounds / base layers<br>- **==🔵Brand anchor==** | Y | Y |
-| Deep Navy Elevated | #1A1747 | 26, 23, 71 | 244, 51%, 18% | `color.palette.deep-navy-elevated` | - Text<br>- Headings<br>- Backgrounds / base layers | Y | Y |
-| Royal Blue | #2B23AD | 43, 35, 173 | 243, 66%, 41% | `color.palette.royal-blue` | - Primary accent<br>- Headings<br>- **==🔵Brand anchor==** | Y |  |
-| Royal Blue Bright | #7B72F0 | 123, 114, 240 | 244, 81%, 69% | `color.palette.royal-blue-bright` | - Primary accent inversion<br>- Headings<br>- **~🔵AccessibleMesh~*** | Y | Y |
-| Accent Gold | #FFCC00 | 255, 204, 0 | 48, 100%, 50% | `color.palette.accent-gold` | - Bright accents | Y |  |
-| Accent Gold Deep | #7A6000 | 122, 96, 0 | 47, 100%, 24% | `color.palette.accent-gold-deep` | - Strong accents<br>- Headings | Y | Y |
-| Oxblood Red | #69140E | 105, 20, 14 | 4, 76%, 23% | `color.palette.oxblood-red` | - Secondary accents<br>- Headings<br>- **~🔴UI negative indicators~** | Y |  |
-| Oxblood Red Bright | #D9382E | 217, 56, 46 | 4, 69%, 52% | `color.palette.oxblood-red-bright` | - Secondary accents<br>- **~🔴UI negative indicators~**<br>- **~🔵AccessibleMesh~*** | Y | Y |
-| Forest Green | #355834 | 53, 88, 52 | 118, 26%, 27% | `color.palette.forest-green` | - Secondary accents<br>- Headings<br>- **~🟢UI positive indicators~** | Y |  |
-| Forest Green Bright | #5AAB59 | 90, 171, 89 | 119, 33%, 51% | `color.palette.forest-green-bright` | - Secondary accents<br>- Headings<br>- **~🟢UI positive indicators~** | Y | Y |
-| Muted Gold | #AFA45F | 175, 164, 95 | 52, 33%, 53% | `color.palette.muted-gold` | - Muted accents<br>- Headings<br>- Borders and lines<br>- **==🟠Brand anchor==** | Y | Y |
-| Muted Gold Deep | #6B6235 | 107, 98, 53 | 50, 34%, 31% | `color.palette.muted-gold-deep` | - Muted accents<br>- Headings<br>- Borders and lines | Y | Y |
-| Warm Cream | #F1ECCE | 241, 236, 206 | 51, 56%, 88% | `color.palette.warm-cream` | - Backgrounds / base layers<br>- Primary text inversion<br>- **==🟡Brand anchor==** | Y | Y |
-| Warm Cream Light | #FAF7E8 | 250, 247, 232 | 50, 64%, 95% | `color.palette.warm-cream-light` | - Backgrounds / base layers<br>- Primary text inversion | Y | Y |
-| White | #FFFFFF | 255, 255, 255 | 0, 0%, 100% | `color.palette.white` | - Universal neutral | Y | Y |
+| Deep Navy | #0B092A | rgb(11, 9, 42) | hsl(244, 65%, 10%) | `color.palette.deep-navy` | - Primary text<br>- Headings<br>- Backgrounds / base layers<br>- **==🔵Brand anchor==** | Y | Y |
+| Deep Navy Elevated | #1A1747 | rgb(26, 23, 71) | hsl(244, 51%, 18%) | `color.palette.deep-navy-elevated` | - Text<br>- Headings<br>- Backgrounds / base layers | Y | Y |
+| Royal Blue | #2B23AD | rgb(43, 35, 173) | hsl(243, 66%, 41%) | `color.palette.royal-blue` | - Primary accent<br>- Headings<br>- **==🔵Brand anchor==** | Y |  |
+| Royal Blue Bright | #7B72F0 | rgb(123, 114, 240) | hsl(244, 81%, 69%) | `color.palette.royal-blue-bright` | - Primary accent inversion<br>- Headings<br>- **~🔵AccessibleMesh~*** | Y | Y |
+| Accent Gold | #FFCC00 | rgb(255, 204, 0) | hsl(48, 100%, 50%) | `color.palette.accent-gold` | - Bright accents | Y |  |
+| Accent Gold Deep | #7A6000 | rgb(122, 96, 0) | hsl(47, 100%, 24%) | `color.palette.accent-gold-deep` | - Strong accents<br>- Headings | Y | Y |
+| Oxblood Red | #69140E | rgb(105, 20, 14) | hsl(4, 76%, 23%) | `color.palette.oxblood-red` | - Secondary accents<br>- Headings<br>- **~🔴UI negative indicators~** | Y |  |
+| Oxblood Red Bright | #D9382E | rgb(217, 56, 46) | hsl(4, 69%, 52%) | `color.palette.oxblood-red-bright` | - Secondary accents<br>- **~🔴UI negative indicators~**<br>- **~🔵AccessibleMesh~*** | Y | Y |
+| Forest Green | #355834 | rgb(53, 88, 52) | hsl(118, 26%, 27%) | `color.palette.forest-green` | - Secondary accents<br>- Headings<br>- **~🟢UI positive indicators~** | Y |  |
+| Forest Green Bright | #5AAB59 | rgb(90, 171, 89) | hsl(119, 33%, 51%) | `color.palette.forest-green-bright` | - Secondary accents<br>- Headings<br>- **~🟢UI positive indicators~** | Y | Y |
+| Muted Gold | #AFA45F | rgb(175, 164, 95) | 52, 33%, 53% | `color.palette.muted-gold` | - Muted accents<br>- Headings<br>- Borders and lines<br>- **==🟠Brand anchor==** | Y | Y |
+| Muted Gold Deep | #6B6235 | rgb(107, 98, 53) | 50, 34%, 31% | `color.palette.muted-gold-deep` | - Muted accents<br>- Headings<br>- Borders and lines | Y | Y |
+| Warm Cream | #F1ECCE | rgb(241, 236, 206) | 51, 56%, 88% | `color.palette.warm-cream` | - Backgrounds / base layers<br>- Primary text inversion<br>- **==🟡Brand anchor==** | Y | Y |
+| Warm Cream Light | #FAF7E8 | rgb(250, 247, 232) | 50, 64%, 95% | `color.palette.warm-cream-light` | - Backgrounds / base layers<br>- Primary text inversion | Y | Y |
+| White | #FFFFFF | rgb(255, 255, 255) | 0, 0%, 100% | `color.palette.white` | - Universal neutral | Y | Y |
 
 ---
 
