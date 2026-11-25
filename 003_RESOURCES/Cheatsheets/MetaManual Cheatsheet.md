@@ -19,3 +19,12 @@ updated: '2026-11-26'
 MetaManual is a guide to helping anyone work with metadata and assign useful information to notes, documents, and research materials. This cheatsheet is a quick reference for all three Profiles — Discovery, Work, and Knowledge — with properties and values that accompany each. The goal is to help anyone, regardless of experience with metadata, YAML frontmatter, or knowledge management, assign meaningful attributes to make their working materials even more helpful.
 
 ## Profile Models
+
+### Discovery
+
+```yaml
+```
+
+### Work
+
+### Knowledge
