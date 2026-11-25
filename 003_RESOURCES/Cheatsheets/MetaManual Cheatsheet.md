@@ -23,8 +23,30 @@ MetaManual is a guide to helping anyone work with metadata and assign useful inf
 ### Discovery
 
 ```yaml
+id: {uuid}
+profile: discovery
+function: #  capture | question | explore | collect
+status: #  new | active | parked | resolved | closed
+topics: #  Subjects the artifact is principally about. Enter one or more concise, reusable terms in kebab-case, such as metadata, color-theory, or content-modeling.
+created: {YYYY-MM-DDTHH:mm:ss}
+updated: {YYYY-MM-DDTHH:mm:ss}
+references: #  Resources for additional information, evidence, or context. Format as list items.
+attribution: #  People, organizations, or works whose ideas, information, or contributions should get credit. Format as list items.
 ```
 
 ### Work
+
+```yaml
+id: {uuid}
+profile: work
+function: #  plan | decide | track | investigate | produce | distill | correct
+status: #  not-started | in-progress | waiting | blocked | deferred | in-review | done | canceled
+topics: #  Subjects the artifact is principally about. Enter one or more concise, reusable terms in kebab-case, such as metadata, color-theory, or content-modeling.
+created: {YYYY-MM-DDTHH:mm:ss}
+updated: {YYYY-MM-DDTHH:mm:ss}
+references: #  Resources for additional information, evidence, or context. Format as list items.
+attribution: #  People, organizations, or works whose ideas, information, or contributions should get credit. Format as list items.
+project: 
+```
 
 ### Knowledge
