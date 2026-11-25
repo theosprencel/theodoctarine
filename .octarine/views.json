@@ -70,6 +70,14 @@
       {
         "field": "oct.locked",
         "order": 12
+      },
+      {
+        "field": "project",
+        "order": 13
+      },
+      {
+        "field": "due",
+        "order": 14
       }
     ],
     "sort": [
@@ -88,7 +96,7 @@
       "viewMode": "table"
     },
     "created": 1777223318470,
-    "modified": 1792802651002
+    "modified": 1795595238934
   },
   {
     "id": "enxytp9zzswld4i2av56zqnm",
@@ -180,5 +188,58 @@
     "groupBy": null,
     "created": 1777223318482,
     "modified": 1777223318486
+  },
+  {
+    "id": "z9gm5mfg55317tfw09ievchi",
+    "name": "Projects & Tasks",
+    "description": "",
+    "icon": "lucide:MessageSquareX",
+    "color": "purple",
+    "order": 3,
+    "pinned": false,
+    "filters": [],
+    "columns": [
+      {
+        "field": "oct.name",
+        "order": 0
+      },
+      {
+        "field": "oct.type",
+        "order": 1
+      },
+      {
+        "field": "oct.path",
+        "order": 3
+      },
+      {
+        "field": "oct.tasks",
+        "order": 4
+      },
+      {
+        "field": "project",
+        "order": 5
+      },
+      {
+        "field": "due",
+        "order": 6
+      }
+    ],
+    "sort": [
+      {
+        "field": "oct.type",
+        "direction": "asc",
+        "priority": null
+      }
+    ],
+    "groupBy": [
+      "oct.task_status"
+    ],
+    "settings": {
+      "rowHeight": null,
+      "pageSize": null,
+      "viewMode": "kanban"
+    },
+    "created": 1795595317952,
+    "modified": 1795595741663
   }
 ]
