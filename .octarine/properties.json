@@ -136,5 +136,95 @@
     "name": "due",
     "type": "date",
     "options": null
+  },
+  {
+    "name": "Status",
+    "type": "list",
+    "options": [
+      "Draft",
+      "In Progress",
+      "Under Review",
+      "Published"
+    ]
+  },
+  {
+    "name": "Due Date",
+    "type": "date",
+    "options": null
+  },
+  {
+    "name": "Last Edited",
+    "type": "datetime",
+    "options": null
+  },
+  {
+    "name": "done",
+    "type": "checkbox",
+    "options": null
+  },
+  {
+    "name": "created_at",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "updated_at",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "inbox_number",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "color",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "order",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "category",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "labels",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "priority",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "state",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "subtasks",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "title",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "icon",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "query",
+    "type": "string",
+    "options": null
   }
 ]
