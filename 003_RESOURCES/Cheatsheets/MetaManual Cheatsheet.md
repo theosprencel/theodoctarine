@@ -83,12 +83,12 @@ S["<pre>Shared fields:<br/>  uuid: {uuid}<br/>  profile: # shared with fixed val
     S -.-> WY
     S -.-> KY
 
-    classDef root fill:#eef2ff,stroke:#818cf8,stroke-width:2px;
-    classDef profile fill:#f0fdfa,stroke:#2dd4bf,stroke-width:2px;
-    classDef data_discovery fill:#ecfeff,stroke:#22d3ee,stroke-width:1px;
-    classDef data_work fill:#fff7ed,stroke:#fb923c,stroke-width:1px;
-    classDef data_knowledge fill:#f5f3ff,stroke:#a78bfa,stroke-width:1px;
-    classDef shared fill:#f0fdf4,stroke:#4ade80,stroke-width:1px;
+    classDef root fill:#eef2ff,stroke:#818cf8,stroke-width:2px,color:#000000,text-align:left;
+    classDef profile fill:#f0fdfa,stroke:#2dd4bf,stroke-width:2px,color:#000000,text-align:left;
+    classDef data_discovery fill:#ecfeff,stroke:#22d3ee,stroke-width:1px,color:#000000,text-align:left;
+    classDef data_work fill:#fff7ed,stroke:#fb923c,stroke-width:1px,color:#000000,text-align:left;
+    classDef data_knowledge fill:#f5f3ff,stroke:#a78bfa,stroke-width:1px,color:#000000,text-align:left;
+    classDef shared fill:#f0fdf4,stroke:#4ade80,stroke-width:1px,color:#000000,text-align:left;
 
     class M,P root;
     class D,W,K profile;
